@@ -1,7 +1,6 @@
 # angular-ivy-zdvk9q
 
-Done by 900524 - Vishwa Santhosh
-FY22 Batch 4
+Done by 900524 - Vishwa Santhosh - FY22 Batch 4
 
 On behalf of AngularJS assignment 
 
