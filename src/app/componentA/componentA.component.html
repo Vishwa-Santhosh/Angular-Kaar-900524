@@ -1,0 +1,29 @@
+<div class="container-1">
+  <h1>Component A - Table</h1>
+  <h2>The data will be displayed in the form of a table</h2>
+  <p>Note: The data are made only for the assignment purposes</p>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Employee ID</th>
+        <th>Name</th>
+        <th>Years of Experience</th>
+        <th>Salary</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let product of products">
+        <td>{{ product.EmployeeID }}</td>
+        <td>{{ product.Name }}</td>
+        <td>{{ product.Year }}</td>
+        <td>{{ product.Salary }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</div>

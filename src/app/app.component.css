@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#yes {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bolder;
+  color: salmon;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+#no {
+  font-family: 'Courier New', Courier, monospace;
+  font-style: oblique;
+  font-weight: bolder;
+  color: blanchedalmond;
+  text-align: center;
+  margin-top: 1rem;
+}
